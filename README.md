@@ -1,2 +1,1 @@
-# repository_demo
-A demo of repository
+This is a README! It's for GitHub
